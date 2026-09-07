@@ -1,3 +1,3 @@
-a feature added
- feature-a doc
+HEAD
+feature-A doc
 feature-B doc
